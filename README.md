@@ -22,3 +22,12 @@
 
 📫 Connect with me
 - GitHub: https://github.com/sheikhsayed37
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sheikhsayed37/sheikhsayed37/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>>
