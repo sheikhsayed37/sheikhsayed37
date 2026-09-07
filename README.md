@@ -4,17 +4,17 @@
 
 
 
-# Hi there 👋 I'm Sheikh Sayed
+## Hi there 👋 I'm Sheikh Sayed
 
 ### 🎓 Computer & Communication Engineering Student | 🤖 AI/ML Developer | 🧠 NLP & Deep Learning | 💻 Competitive Programmer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sheikhsayed37&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
-I'm a **Computer and Communication Engineering (CCE)** student passionate about building intelligent systems with **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**.
+I'm a **Computer and Communication Engineering (CCE)** student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**.
 
-I enjoy turning ideas into practical projects, solving algorithmic problems, and continuously improving my software engineering and research skills.
+I enjoy building practical AI/ML projects, solving algorithmic problems, experimenting with new technologies, and continuously improving my software engineering and research skills.
 
 ---
 
@@ -62,14 +62,16 @@ I enjoy turning ideas into practical projects, solving algorithmic problems, and
 
 ## 🚀 Featured Projects
 
-> A selection of projects demonstrating my interests in AI, ML, NLP and problem solving.
+> A selection of projects demonstrating my interests in AI, ML, NLP, and problem solving.
 
 ### 🛡️ BanglaShield — Bangla Text Classification
 
-**AI-powered NLP project for analyzing and classifying Bangla text.**
+AI-powered NLP project focused on analyzing and classifying Bangla text.
+
+**Highlights**
 
 * 🧠 Natural Language Processing
-* 🤖 Machine Learning / Deep Learning
+* 🤖 Machine Learning & Deep Learning
 * 🇧🇩 Bangla language processing
 * 📊 Text classification
 * 📈 Model evaluation & experimentation
@@ -84,12 +86,14 @@ I enjoy turning ideas into practical projects, solving algorithmic problems, and
 
 ---
 
-### 🤖 AI / ML Project
+### 🤖 Machine Learning Project
 
-**Machine learning project focused on building and evaluating predictive models.**
+A practical machine learning project focused on data preprocessing, model development, and performance evaluation.
+
+**Highlights**
 
 * 📊 Data preprocessing
-* 🔍 Exploratory data analysis
+* 🔍 Exploratory Data Analysis
 * 🧠 Model training
 * 📈 Performance evaluation
 * ⚙️ Experimentation
@@ -97,7 +101,7 @@ I enjoy turning ideas into practical projects, solving algorithmic problems, and
 **Tech:** `Python` `NumPy` `Pandas` `Scikit-learn`
 
 <p>
-  <a href="YOUR_PROJECT_REPO">
+  <a href="YOUR_ML_PROJECT_REPO">
     <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -106,7 +110,9 @@ I enjoy turning ideas into practical projects, solving algorithmic problems, and
 
 ### 🧠 Deep Learning Project
 
-**Exploring neural networks and deep learning techniques through practical implementation.**
+A practical exploration of neural networks and deep learning techniques.
+
+**Highlights**
 
 * 🧠 Neural Networks
 * 🔥 Deep Learning
@@ -126,26 +132,27 @@ I enjoy turning ideas into practical projects, solving algorithmic problems, and
 
 ## 🧠 Areas of Interest
 
-```text
-Artificial Intelligence
-├── Machine Learning
-├── Deep Learning
-├── Natural Language Processing
-├── Computer Vision
-└── AI Research
+### 🤖 Artificial Intelligence
 
-Computer Science
-├── Data Structures & Algorithms
-├── Competitive Programming
-├── Problem Solving
-└── Software Development
-```
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* AI Research
+
+### 💻 Computer Science
+
+* Data Structures & Algorithms
+* Competitive Programming
+* Algorithmic Problem Solving
+* Software Development
+* Computational Thinking
 
 ---
 
 ## 🏆 Competitive Programming
 
-I'm actively developing my algorithmic thinking and problem-solving skills through competitive programming.
+I'm actively improving my algorithmic thinking and problem-solving skills through competitive programming and algorithmic challenges.
 
 ### 💻 Focus Areas
 
@@ -173,16 +180,16 @@ I'm actively developing my algorithmic thinking and problem-solving skills throu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsayed37&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsayed37&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sheikhsayed37&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -190,7 +197,7 @@ I'm actively developing my algorithmic thinking and problem-solving skills throu
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhsayed37&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -226,11 +233,14 @@ I'm actively developing my algorithmic thinking and problem-solving skills throu
   <a href="YOUR_LINKEDIN_PROFILE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_EMAIL">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_CODEFORCES_PROFILE">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_PROFILE">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -243,7 +253,6 @@ I'm actively developing my algorithmic thinking and problem-solving skills throu
 <p align="center">
   ⭐ If you find my projects interesting, consider starring the repositories!
 </p>
-
 
 📫 Connect with me
 - GitHub: https://github.com/sheikhsayed37
