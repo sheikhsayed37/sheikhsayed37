@@ -9,7 +9,8 @@
 ### 🎓 Computer & Communication Engineering Student | 🤖 AI/ML Enthusiast | 💻 Competitive Programmer
 
 I'm a **Computer and Communication Engineering (CCE)** student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Problem Solving**.
-Currently, I'm building my skills through hands-on projects, competitive programming, and continuous learning.
+
+I enjoy learning new technologies, building projects, solving programming problems, and exploring the world of AI. 🚀
 
 ---
 
@@ -17,10 +18,11 @@ Currently, I'm building my skills through hands-on projects, competitive program
 
 * 🎓 B.Sc. in **Computer and Communication Engineering (CCE)**
 * 🤖 Currently learning **Machine Learning & Deep Learning**
+* 🧠 Exploring **Artificial Intelligence & Natural Language Processing**
 * 💻 Practicing **Data Structures & Algorithms**
-* 🧠 Exploring **Artificial Intelligence & NLP**
-* 🏆 Interested in **Competitive Programming**
-* 🌱 Interested in **Open Source & AI Research**
+* 🏆 Improving my **Competitive Programming** skills
+* 🔬 Interested in **AI Research**
+* 🌍 Interested in **Open Source**
 * 🔭 Currently working on **AI/ML projects**
 
 ---
@@ -30,27 +32,23 @@ Currently, I'm building my skills through hands-on projects, competitive program
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
@@ -70,19 +68,20 @@ Currently, I'm building my skills through hands-on projects, competitive program
 
 ## 🎯 2026 Goals
 
-* 🚀 Build more real-world AI/ML projects
-* 🧠 Strengthen my Deep Learning fundamentals
-* 💻 Improve competitive programming skills
-* 🔬 Explore AI/NLP research
-* 🌍 Contribute to Open Source
-* 📖 Keep learning and experimenting
+* 🚀 Build real-world **AI/ML projects**
+* 🧠 Strengthen my **Deep Learning fundamentals**
+* 🗣️ Explore **NLP and Transformer-based models**
+* 💻 Improve my **Competitive Programming** skills
+* 🔬 Work on **AI/NLP research projects**
+* 🌍 Make meaningful **Open Source contributions**
+* 📖 Continuously learn and experiment with new technologies
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsayed37&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsayed37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsayed37&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -98,17 +97,54 @@ Currently, I'm building my skills through hands-on projects, competitive program
 
 ## 🏆 Competitive Programming
 
-I'm actively improving my problem-solving skills through competitive programming and algorithmic challenges.
+I enjoy solving algorithmic problems and continuously improving my **problem-solving and competitive programming skills**.
 
-* 💻 Codeforces
-* 🧩 Data Structures & Algorithms
-* 🧠 Algorithmic Problem Solving
+### 💻 Platforms
+
+* 🟦 **Codeforces**
+* 🟧 **HackerRank**
+* 🧩 **Data Structures & Algorithms**
+* 🧠 **Algorithmic Problem Solving**
+
+---
+
+## 📌 Featured Projects
+
+Some of the projects I'm working on and exploring:
+
+* 🤖 **Machine Learning Projects**
+* 🧠 **Deep Learning Projects**
+* 🗣️ **NLP & Text Classification**
+* 💻 **Data Structures & Algorithms**
+* 🔬 **AI Research Projects**
+
+> 🚧 More projects coming soon...
+
+---
+
+## 📈 My Learning Journey
+
+```text
+C / C++
+   ↓
+Data Structures & Algorithms
+   ↓
+Python
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+NLP & Transformers
+   ↓
+AI Research 🚀
+```
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/sheikhsayed37">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -116,11 +152,19 @@ I'm actively improving my problem-solving skills through competitive programming
 
 ---
 
+## ⚡ Fun Fact
+
+> I believe the best way to learn programming is to **build, break, debug, and build again.** 🚀
+
+---
+
 <p align="center">
-  <i>"Keep learning. Keep building. Keep improving."</i> 🚀
+  <b>Thanks for visiting my profile! 👋</b>
 </p>
 
-
+<p align="center">
+  ⭐ Feel free to explore my repositories and follow my journey!
+</p>
 
 📫 Connect with me
 - GitHub: https://github.com/sheikhsayed37
