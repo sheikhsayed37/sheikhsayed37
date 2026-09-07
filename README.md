@@ -10,9 +10,6 @@
 
 ### 🎓 Computer & Communication Engineering Student | 🤖 AI/ML Developer | 🧠 NLP & Deep Learning | 💻 Competitive Programmer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sheikhsayed37&label=Profile%20Views&style=flat" alt="Profile Views" />
-</p>
 
 I'm a **Computer and Communication Engineering (CCE)** student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**.
 
@@ -80,15 +77,7 @@ AI-powered NLP project focused on analyzing and classifying Bangla text.
 
 **Tech:** `Python` `NLP` `Machine Learning` `Deep Learning`
 
-<p>
-  <a href="YOUR_BANGLASHIELD_REPO">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🤖 Machine Learning Project
+###🤖 Machine Learning Project
 
 A practical machine learning project focused on data preprocessing, model development, and performance evaluation.
 
@@ -101,14 +90,7 @@ A practical machine learning project focused on data preprocessing, model develo
 * ⚙️ Experimentation
 
 **Tech:** `Python` `NumPy` `Pandas` `Scikit-learn`
-
-<p>
-  <a href="YOUR_ML_PROJECT_REPO">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
+-
 
 ### 🧠 Deep Learning Project
 
@@ -229,32 +211,8 @@ I'm actively improving my algorithmic thinking and problem-solving skills throug
 
 ---
 
-## 🤝 Let's Connect
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_CODEFORCES_PROFILE">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="YOUR_LEETCODE_PROFILE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
----
-
-<p align="center">
-  <b>💡 Build. Learn. Solve. Repeat.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider starring the repositories!
-</p>
 
 📫 Connect with me
 - GitHub: https://github.com/sheikhsayed37
