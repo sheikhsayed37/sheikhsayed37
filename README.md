@@ -4,26 +4,30 @@
 
 
 
-# Hi there 👋, I'm Sheikh Sayed
+# Hi there 👋 I'm Sheikh Sayed
 
-### 🎓 Computer & Communication Engineering Student | 🤖 AI/ML Enthusiast | 💻 Competitive Programmer
+### 🎓 Computer & Communication Engineering Student | 🤖 AI/ML Developer | 🧠 NLP & Deep Learning | 💻 Competitive Programmer
 
-I'm a **Computer and Communication Engineering (CCE)** student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Problem Solving**.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I enjoy learning new technologies, building projects, solving programming problems, and exploring the world of AI. 🚀
+I'm a **Computer and Communication Engineering (CCE)** student passionate about building intelligent systems with **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**.
+
+I enjoy turning ideas into practical projects, solving algorithmic problems, and continuously improving my software engineering and research skills.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Sc. in **Computer and Communication Engineering (CCE)**
-* 🤖 Currently learning **Machine Learning & Deep Learning**
-* 🧠 Exploring **Artificial Intelligence & Natural Language Processing**
+* 🎓 Pursuing **B.Sc. in Computer & Communication Engineering**
+* 🤖 Focused on **Machine Learning & Deep Learning**
+* 🧠 Exploring **Natural Language Processing (NLP)**
 * 💻 Practicing **Data Structures & Algorithms**
-* 🏆 Improving my **Competitive Programming** skills
-* 🔬 Interested in **AI Research**
-* 🌍 Interested in **Open Source**
-* 🔭 Currently working on **AI/ML projects**
+* 🏆 Interested in **Competitive Programming**
+* 🔬 Exploring **AI Research & Applied Machine Learning**
+* 🌱 Learning through hands-on projects and experimentation
+* 🚀 Currently building and improving **AI/ML projects**
 
 ---
 
@@ -31,58 +35,146 @@ I enjoy learning new technologies, building projects, solving programming proble
 
 ### 👨‍💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools & Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
 </p>
 
 ---
 
-## 📚 Areas I'm Exploring
+## 🚀 Featured Projects
 
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* 🗣️ Natural Language Processing
-* 📊 Data Science
-* 🧮 Mathematics for Machine Learning
-* 💻 Data Structures & Algorithms
-* 🏆 Competitive Programming
-* 🔬 AI Research
+> A selection of projects demonstrating my interests in AI, ML, NLP and problem solving.
+
+### 🛡️ BanglaShield — Bangla Text Classification
+
+**AI-powered NLP project for analyzing and classifying Bangla text.**
+
+* 🧠 Natural Language Processing
+* 🤖 Machine Learning / Deep Learning
+* 🇧🇩 Bangla language processing
+* 📊 Text classification
+* 📈 Model evaluation & experimentation
+
+**Tech:** `Python` `NLP` `Machine Learning` `Deep Learning`
+
+<p>
+  <a href="YOUR_BANGLASHIELD_REPO">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+### 🤖 AI / ML Project
 
-* 🚀 Build real-world **AI/ML projects**
-* 🧠 Strengthen my **Deep Learning fundamentals**
-* 🗣️ Explore **NLP and Transformer-based models**
-* 💻 Improve my **Competitive Programming** skills
-* 🔬 Work on **AI/NLP research projects**
-* 🌍 Make meaningful **Open Source contributions**
-* 📖 Continuously learn and experiment with new technologies
+**Machine learning project focused on building and evaluating predictive models.**
+
+* 📊 Data preprocessing
+* 🔍 Exploratory data analysis
+* 🧠 Model training
+* 📈 Performance evaluation
+* ⚙️ Experimentation
+
+**Tech:** `Python` `NumPy` `Pandas` `Scikit-learn`
+
+<p>
+  <a href="YOUR_PROJECT_REPO">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🧠 Deep Learning Project
+
+**Exploring neural networks and deep learning techniques through practical implementation.**
+
+* 🧠 Neural Networks
+* 🔥 Deep Learning
+* 📊 Dataset preparation
+* ⚡ Model training
+* 📈 Evaluation & optimization
+
+**Tech:** `Python` `PyTorch` `Deep Learning`
+
+<p>
+  <a href="YOUR_DEEP_LEARNING_REPO">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Areas of Interest
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Natural Language Processing
+├── Computer Vision
+└── AI Research
+
+Computer Science
+├── Data Structures & Algorithms
+├── Competitive Programming
+├── Problem Solving
+└── Software Development
+```
+
+---
+
+## 🏆 Competitive Programming
+
+I'm actively developing my algorithmic thinking and problem-solving skills through competitive programming.
+
+### 💻 Focus Areas
+
+* Data Structures
+* Algorithms
+* Dynamic Programming
+* Graph Algorithms
+* Greedy Algorithms
+* Complexity Analysis
+* Mathematical Problem Solving
+
+### 🔗 Profiles
+
+<p align="left">
+  <a href="YOUR_CODEFORCES_PROFILE">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_PROFILE">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsayed37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsayed37&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -90,81 +182,68 @@ I enjoy learning new technologies, building projects, solving programming proble
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sheikhsayed37&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Competitive Programming
+## 📈 Contribution Activity
 
-I enjoy solving algorithmic problems and continuously improving my **problem-solving and competitive programming skills**.
-
-### 💻 Platforms
-
-* 🟦 **Codeforces**
-* 🟧 **HackerRank**
-* 🧩 **Data Structures & Algorithms**
-* 🧠 **Algorithmic Problem Solving**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📚 Currently Learning
 
-Some of the projects I'm working on and exploring:
-
-* 🤖 **Machine Learning Projects**
-* 🧠 **Deep Learning Projects**
-* 🗣️ **NLP & Text Classification**
-* 💻 **Data Structures & Algorithms**
-* 🔬 **AI Research Projects**
-
-> 🚧 More projects coming soon...
-
----
-
-## 📈 My Learning Journey
-
-```text
-C / C++
-   ↓
-Data Structures & Algorithms
-   ↓
-Python
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-NLP & Transformers
-   ↓
-AI Research 🚀
-```
+* 🤖 Advanced Machine Learning
+* 🧠 Deep Learning
+* 🗣️ Natural Language Processing
+* 🔥 PyTorch
+* 📊 Data Science & Model Evaluation
+* 🧮 Mathematics for Machine Learning
+* 🔬 AI Research Methodology
+* 💻 Advanced Algorithms
 
 ---
 
-## 📫 Connect With Me
+## 🎯 2026 Goals
+
+* 🚀 Build high-quality real-world AI/ML projects
+* 🧠 Strengthen Deep Learning fundamentals
+* 🗣️ Explore advanced NLP techniques
+* 🔬 Work on AI research-oriented projects
+* 💻 Improve Competitive Programming skills
+* 🌍 Contribute to Open Source
+* 📚 Build a strong AI/ML portfolio
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/sheikhsayed37">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_CODEFORCES_PROFILE">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-> I believe the best way to learn programming is to **build, break, debug, and build again.** 🚀
-
----
-
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
+  <b>💡 Build. Learn. Solve. Repeat.</b>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and follow my journey!
+  ⭐ If you find my projects interesting, consider starring the repositories!
 </p>
+
 
 📫 Connect with me
 - GitHub: https://github.com/sheikhsayed37
