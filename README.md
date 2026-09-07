@@ -1,6 +1,7 @@
 
 
-<img width="2048" height="768" alt="ChatGPT Image Sep 7, 2026, 01_24_35 AM" src="https://github.com/user-attachments/assets/78789895-0cd6-4f68-b0e8-aa9ef743b111" />
+<img width="1983" height="793" alt="ChatGPT Image Sep 7, 2026, 01_32_28 AM" src="https://github.com/user-attachments/assets/b53eacd4-09c1-4de4-8980-f47ce15b8aa3" />
+
 
 
 # Hi there 👋, I'm Sheikh Sayed
